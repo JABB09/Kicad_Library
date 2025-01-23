@@ -1,0 +1,3 @@
+[submodule "Kicad_Library"]
+	path = Kicad_Library
+	url = https://github.com/JABB09/Kicad_Library.git
